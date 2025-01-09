@@ -57,7 +57,7 @@ a {
   background: #2e2f42;
 }
 
-.main-title {
+.first-section-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -66,7 +66,7 @@ a {
   color: #fff;
 }
 
-.main-title-button {
+.first-section-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -74,10 +74,11 @@ a {
   color: #fff;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
+  cursor: pointer;
 }
 
-.main-title-button:hover,
-.main-title-button:focus {
+.first-section-button:hover,
+.first-section-button:focus {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
