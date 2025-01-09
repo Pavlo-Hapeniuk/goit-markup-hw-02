@@ -85,17 +85,21 @@ a {
 /* ------SECOND-SECTION------ */
 .second-section {
 }
+
 .second-section-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .second-section-list {
 }
+
 .second-section-item {
 }
+
 .second-section-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -114,7 +118,9 @@ a {
 
 .third-section {
   background-color: #f4f4fd;
+  text-transform: capitalize;
 }
+
 .third-section-title {
   font-size: 36px;
   line-height: 1.11;
@@ -122,11 +128,14 @@ a {
   text-align: center;
   color: #2e2f42;
 }
+
 .third-section-list {
 }
+
 .third-section-item {
   background: #fff;
 }
+
 .third-section-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -135,6 +144,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
+
 .third-section-subtitle-text {
   font-size: 16px;
   line-height: 1.5;
